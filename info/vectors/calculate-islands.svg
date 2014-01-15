@@ -364,8 +364,8 @@
       <tspan x="-13.297" y="13.5" font-family="Verdana-Bold" font-size="36" fill="#294270">2</tspan>
     </text>
     <g>
-      <text transform="matrix(1, 0, 0, 1, 106.936, 520)">
-        <tspan x="-46.936" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">Input: </tspan>
+      <text transform="matrix(1, 0, 0, 1, 102.834, 520)">
+        <tspan x="-42.834" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">Input: </tspan>
       </text>
       <text transform="matrix(1, 0, 0, 1, 160.807, 549)">
         <tspan x="-100.807" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">[[0, 0, 0, 0, 0],</tspan>
@@ -400,15 +400,15 @@
         <tspan x="-98.387" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270"> [0, 0, 0, 1, 0],</tspan>
       </text>
       <text transform="matrix(1, 0, 0, 1, 520.572, 636)">
-        <tspan x="-100.572" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270"> [0, 1, 0, 0, 0]]</tspan>
+        <tspan x="-100.572" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270"> [0, 1, 1, 0, 0]]</tspan>
       </text>
       <text transform="matrix(1, 0, 0, 1, 497.627, 694)">
         <tspan x="-77.627" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">Output: [5]</tspan>
       </text>
     </g>
     <g>
-      <text transform="matrix(1, 0, 0, 1, 826.936, 520)">
-        <tspan x="-46.936" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">Input: </tspan>
+      <text transform="matrix(1, 0, 0, 1, 822.834, 520)">
+        <tspan x="-42.834" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">Input: </tspan>
       </text>
       <text transform="matrix(1, 0, 0, 1, 897.775, 549)">
         <tspan x="-117.775" y="9" font-family="Verdana-Bold" font-size="24" fill="#294270">[[0, 0, 0, 0, 0, 0],</tspan>
