@@ -1,4 +1,4 @@
-def checkio(data):
+def checkio(land_map):
 
     return [1]
 

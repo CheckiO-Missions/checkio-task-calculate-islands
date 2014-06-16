@@ -66,9 +66,9 @@ checkio([
 
 
 <p>
-    <strong>Precondition:</strong> 0 < |map| &lt; 10<br>
-    The map is rectangular.<br>
-    The map contains at least one island.
+    <strong>Precondition:</strong> 0 &lt; len(land_map) &lt; 10<br>
+    all(len(land_map) == len(row) for row in land_map)<br>
+    any(any(row) for row in land_map)
 </p>
 
 <p class="for_info_only">
