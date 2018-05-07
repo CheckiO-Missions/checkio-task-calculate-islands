@@ -1,4 +1,6 @@
-def checkio(land_map):
+from typing import List
+
+def checkio(land_map: List[int]) -> List[int]:
 
     return [1]
 
