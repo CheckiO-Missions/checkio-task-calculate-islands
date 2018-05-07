@@ -6,6 +6,13 @@ def checkio(land_map: List[List[int]]) -> List[int]:
 
 #These "asserts" using only for self-checking and not necessary for auto-testing
 if __name__ == '__main__':
+    print("Example:")
+    print(checkio([[0, 0, 0, 0, 0],
+                   [0, 0, 1, 1, 0],
+                   [0, 0, 0, 1, 0],
+                   [0, 1, 0, 0, 0],
+                   [0, 0, 0, 0, 0]]))
+
     assert checkio([[0, 0, 0, 0, 0],
                     [0, 0, 1, 1, 0],
                     [0, 0, 0, 1, 0],
@@ -22,3 +29,4 @@ if __name__ == '__main__':
                     [0, 0, 0, 0, 0, 0],
                     [0, 1, 1, 1, 1, 0],
                     [0, 0, 0, 0, 0, 0]]) == [2, 3, 3, 4], "3rd example"
+    print("Coding complete? Click 'Check' to earn cool rewards!")
